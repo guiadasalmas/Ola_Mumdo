@@ -1,2 +1,2 @@
-# Ola_Mumdo
- primeiro repositorio versionado do curso git-github
+# Olá, Mundo!
+ Primeiro repositório versionado do curso git-github.
